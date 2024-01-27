@@ -1,0 +1,12 @@
+v.21.00.00
+-Uprev to redux version, mirror image of Mr.V's repository with no modifications
+
+v.20.12.26
+-Fix for info widgets not showing text
+-Update case variables for views and nowplaying
+-Add filename check '4k' for case variables
+-Change image aspect from stretch to scale for cover list when content is not set in a container
+
+
+v.20.11.23
+-Initial release
