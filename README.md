@@ -1,4 +1,4 @@
-# skin.madnox-master
+# skin.madnox.redux
  Picking up the torch for Mr. V's Kodi Skin Madnox
 
  ![1](https://i.postimg.cc/Vv3CkMrM/1.png)
