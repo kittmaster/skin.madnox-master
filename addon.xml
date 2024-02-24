@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<addon id="skin.madnox" version="21.00.00" name="Madnox" provider-name="Kittmaster">
+<addon id="skin.madnox" version="21.0.0" name="Madnox" provider-name="Kittmaster">
     <requires>
         <import addon="xbmc.gui" version="5.14.0"/>
         <import addon="script.skinshortcuts" version="1.0.17"/>
