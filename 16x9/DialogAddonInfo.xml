@@ -123,22 +123,22 @@
 			</control>
 		</control>
 		<!-- Hidden Controls -->
-		<control type="button" id="6">
+		<control type="label" id="6">
 			<include>HiddenObject</include>
 		</control>
-		<control type="button" id="7">
+		<control type="label" id="7">
 			<include>HiddenObject</include>
 		</control>
-		<control type="button" id="8">
+		<control type="label" id="8">
 			<include>HiddenObject</include>
 		</control>
-		<control type="button" id="9">
+		<control type="label" id="9">
 			<include>HiddenObject</include>
 		</control>
-		<control type="button" id="10">
+		<control type="label" id="10">
 			<include>HiddenObject</include>
 		</control>
-		<control type="button" id="12">
+		<control type="label" id="12">
 			<include>HiddenObject</include>
 		</control>
 		<control type="radiobutton" id="13">
